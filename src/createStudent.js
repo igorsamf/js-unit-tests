@@ -22,4 +22,3 @@ feedback: () => 'Eita pessoa boa!',
 console.log(createStudent('Igor'));
 
 module.exports = createStudent;
-
